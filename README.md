@@ -26,9 +26,14 @@
     ```sh
     source .venv/bin/activate
 
-4. Install Flask
+4. Install requirements
 
     ```sh
-    pip3 install flask
+    pip3 install -r requirements. txt
+
+5. Run the server
+
+    ```sh
+    python3 app.py
 
     
