@@ -11,8 +11,8 @@
 1. **Clone the Repository**
 
    ```sh
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/pratikdesai399/Intro-to-Flask.git
+   cd Intro-to-Flask
 
 2. **Create Virtual Environment**
 
